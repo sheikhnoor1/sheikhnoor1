@@ -11,10 +11,10 @@
  
 ### 👨‍💻 About Me
  
-* 🎓 Currently studying **Computer Science & Engineering at AIUB**
-* 🌱 Exploring **Software Development, Web Development, Mobile Development, and Problem Solving**
-* 💡 Passionate about building **scalable full-stack and mobile applications**
-* ⚡ Fun fact: I love turning **complex problems** into simple, beautiful solutions.
+I'm a Computer Science & Engineering student at AIUB with a strong interest in software development and problem solving. I enjoy working across the full stack, from creating responsive and user-friendly interfaces to developing APIs and designing efficient databases.
+
+I'm also passionate about Software Quality Assurance & Testing, with a focus on building reliable, scalable, and maintainable applications. I continuously explore new technologies and enjoy turning complex problems into simple, practical, and elegant solutions.
+
  
 ---
  
