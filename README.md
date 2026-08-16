@@ -1,6 +1,7 @@
-<marquee behavior="scroll" direction="left">
-  <h1 align="center">Hi 👋, I'm Sheikh Noor Uddin Bashar</h1>
-</marquee>
+<h1 align="center">
+  Hi 👋, I'm
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Sheikh;Sheikh+Noor;Sheikh+Noor+Uddin;Sheikh+Noor+Uddin+Bashar" alt="Typing SVG" />
+</h1>
 <h3 align="center">💻 Passionate Full-Stack Developer | Problem Solver | AIUB CSE Student</h3>
  
 <p align="center">
