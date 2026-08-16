@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sheikh Noor Uddin Bashar</h1>
+<marquee behavior="scroll" direction="left">
+  <h1 align="center">Hi 👋, I'm Sheikh Noor Uddin Bashar</h1>
+</marquee>
 <h3 align="center">💻 Passionate Full-Stack Developer | Problem Solver | AIUB CSE Student</h3>
  
 <p align="center">
