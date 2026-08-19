@@ -1,12 +1,19 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sheikh+Noor+Uddin+Bashar;CSE+Student+%7C+Full-Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</h1>
-<h3 align="center">💻 Passionate Full-Stack Developer | Problem Solver | AIUB CSE Student</h3>
+<h1 align="center">Hi 👋, I'm Sheikh Noor Uddin Bashar</h1>
+<h2 align="center">💻 CSE Student at AIUB | Aspiring Software Engineer | Web Developer | ML & NLP Enthusiast</h2>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=850&height=70&lines=Software+Engineer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;ML+%26+NLP+Enthusiast+%F0%9F%A4%96;Building+AI-Powered+Applications+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%"/>
+
+</div>
+<!-- <h3 align="center">💻 Passionate Full-Stack Developer | Problem Solver | AIUB CSE Student</h3>
  
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F72AF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Problem+Solver;Computer+Science+%26+Engineering+Student;Passionate+about+Learning+%26+Building%22 alt="Typing SVG" />
-</p>
- 
+</p> -->
 ---
  
 ### 👨‍💻 About Me
